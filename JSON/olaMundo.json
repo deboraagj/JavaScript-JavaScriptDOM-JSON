@@ -1,0 +1,45 @@
+{
+    "nome": "Irineu Story",
+    "notebook": [
+        {
+            "modelo": "Dell",
+            "MD": "TB",
+            "cor": "Preto",
+            "Disponível": true,
+            "Processador":{
+                "Marca": "Gigabyte",
+                "Nucleo":"6",
+                "Frequecia": "3.0Ghz"
+            }
+        },
+        {
+            "modelo": "Acer",
+            "MD": "TB",
+            "cor": "Preto",
+            "Disponível": true,
+            "Processador":{
+                "Marca": "Gigabyte",
+                "Nucleo":"6",
+                "Frequecia": "3.0Ghz"
+            }
+        }
+    ], 
+    "celular":[
+        {
+            "Marca": "Aplee",
+            "Modelo":{
+                "versao":"Iphone 15 Pro",
+                "cor": "Preto",
+                "Memoria": "256g"
+            }
+        },
+        {
+            "Marca": "Xiaomi",
+            "Modelo":{
+                "versao":"17 Pro Max",
+                "cor": "Preto",
+                "Memoria": "512g"
+            }
+        }
+    ]
+}
